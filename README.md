@@ -18,10 +18,8 @@ Docker streamlines the development lifecycle by allowing developers to work in s
 
 ##### Clone the Project and run the below shell Commands
 
-```shell
-    
+```shell  
 docker-compose up
-
 ```
 
 
